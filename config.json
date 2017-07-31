@@ -1,4 +1,4 @@
-module.exports = {
+{
   "env": {
     "browser": true,
     "es6": true,
@@ -188,4 +188,4 @@ module.exports = {
     "react/no-danger": 0,
     "react/no-find-dom-node": 0
   }
-};
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@agronkabashi/eslint-config",
+  "version": "0.0.1",
+  "description": "Eslint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgronKabashi/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "standard"
+  ],
+  "author": "Agron Kabashi",
+  "license": "MIT"
+}

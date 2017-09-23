@@ -97,7 +97,7 @@
     "no-useless-return": 2,
     "no-void": 2,
     "no-with": 2,
-    "prefer-promise-reject-errors": 2,
+    "prefer-promise-reject-errors": 0,
     "no-catch-shadow": 2,
     "no-delete-var": 2,
     "no-undef": 2,
@@ -186,6 +186,7 @@
     "no-console": 1,
     "operator-linebreak": ["error", "before"],
     "react/no-danger": 0,
-    "react/no-find-dom-node": 0
+    "react/no-find-dom-node": 0,
+    "react/display-name": 0
   }
 }

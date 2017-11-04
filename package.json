@@ -1,6 +1,6 @@
 {
   "name": "@agronkabashi/eslint-config",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "Eslint configuration",
   "main": "index.js",
   "repository": {
@@ -13,8 +13,7 @@
     "standard"
   ],
   "dependencies": {
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-react": "^7.1.0"
+    "eslint-plugin-promise": "^3.5.0"
   },
   "author": "Agron Kabashi",
   "license": "MIT"

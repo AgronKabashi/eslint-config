@@ -10,14 +10,12 @@
     "sourceType": "module",
     "ecmaFeatures": {
       "experimentalObjectRestSpread": true,
-      "jsx": true,
       "modules": true
     }
   },
   "parser": "babel-eslint",
   "extends": [
-    "plugin:promise/recommended",
-    "plugin:react/recommended"
+    "plugin:promise/recommended"
   ],
   "plugins": [
     "promise",
@@ -184,9 +182,6 @@
 
     "import/no-unresolved": 0,
     "no-console": 1,
-    "operator-linebreak": ["error", "before"],
-    "react/no-danger": 0,
-    "react/no-find-dom-node": 0,
-    "react/display-name": 0
+    "operator-linebreak": ["error", "before"]
   }
 }

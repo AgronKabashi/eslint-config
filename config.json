@@ -18,8 +18,7 @@
     "plugin:promise/recommended"
   ],
   "plugins": [
-    "promise",
-    "react"
+    "promise"
   ],
   "rules": {
     "getter-return": 2,

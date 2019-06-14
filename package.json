@@ -1,8 +1,7 @@
 {
   "name": "@agronkabashi/eslint-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Eslint configuration",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/AgronKabashi/eslint-config"
@@ -12,11 +11,8 @@
     "config",
     "standard"
   ],
-  "peerDependencies": {
-    "babel-eslint": "^8.0.2"
-  },
   "dependencies": {
-    "eslint-plugin-promise": "^3.5.0"
+    "eslint-plugin-promise": "^4.1.1"
   },
   "author": "Agron Kabashi",
   "license": "MIT"

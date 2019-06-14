@@ -2,18 +2,13 @@
   "env": {
     "browser": true,
     "es6": true,
-    "jasmine": true,
     "serviceworker": true,
     "node": true
   },
   "parserOptions": {
     "sourceType": "module",
-    "ecmaFeatures": {
-      "experimentalObjectRestSpread": true,
-      "modules": true
-    }
+    "ecmaVersion": 2015
   },
-  "parser": "babel-eslint",
   "extends": [
     "plugin:promise/recommended"
   ],
